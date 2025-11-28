@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 I'm a Unity developer with a strong foundation in **C#**, **OOP**, **SOLID principles**, design patterns, and game architecture. I specialize in structuring clean, maintainable gameplay and UI systems while staying aligned with modern Unity development standards.
 
 ## 🔧 Current Focus
