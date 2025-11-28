@@ -1,5 +1,25 @@
-# 💫 About Me:
-I'm a Unity developer with a strong foundation in C#, OOP, SOLID principles, design patterns, and game architecture. I specialize in structuring clean, maintainable gameplay and UI systems and continuously sharpen my technical toolkit to stay aligned with modern Unity development standards.<br><br>🔧 Current Focus<br><br>Building scalable gameplay mechanics and tools in Unity<br><br>Applying architectural patterns for clean, efficient, and reusable code<br><br>Expanding expertise with advanced Unity features and workflows<br><br>🚀 Upcoming Specializations<br><br>Implementing multiplayer systems using modern networking solutions<br><br>Developing ML-driven game AI and intelligent agent behavior<br><br>💬 Ask Me About<br><br>OOP & SOLID principles<br><br>Unity development concepts<br><br>Pixel art workflows<br><br>🎮 Fun Facts<br><br>Favorite AAA game: Cyberpunk 2077<br><br>Music I love: Metallica<br><br>Hobbies: Billiards and chess
+# 💫 About Me
+I'm a Unity developer with a strong foundation in **C#**, **OOP**, **SOLID principles**, design patterns, and game architecture. I specialize in structuring clean, maintainable gameplay and UI systems while staying aligned with modern Unity development standards.
+
+## 🔧 Current Focus
+- Building scalable gameplay mechanics and tools in Unity  
+- Applying architectural patterns for clean and reusable code  
+- Expanding expertise with advanced Unity features and workflows  
+
+## 🚀 Upcoming Specializations
+- Implementing multiplayer systems using modern networking solutions  
+- Developing ML-driven game AI and intelligent agent behavior  
+
+## 💬 Ask Me About
+- OOP & SOLID principles  
+- Unity development concepts  
+- Pixel art workflows  
+
+## 🎮 Fun Facts
+- Favorite AAA game: **Cyberpunk 2077**  
+- Music I love: **Metallica**  
+- Hobbies: **Billiards and chess**
+
 
 
 ## 🌐 Socials:
